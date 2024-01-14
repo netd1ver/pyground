@@ -1,4 +1,5 @@
 # dirs
+.git/
 .venv/
 __pycache__/
 
