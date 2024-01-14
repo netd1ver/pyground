@@ -1,0 +1,15 @@
+# dirs
+.venv/
+__pycache__/
+
+# any media files
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+*.gz
